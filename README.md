@@ -87,11 +87,9 @@ To provide users with an easy-to-use and visually rich dashboard that:
 
 ### 6. Screenshots / Demos
 
-![Weather Dashboard Preview – Ukhimath](https://github.com/rasmaus/weather_dashboard-/blob/main/selected%20day%20weather%20glimpse.png)
+![Weather Dashboard Preview – ](https://github.com/rasmaus/weather_dashboard-/blob/main/selected%20day%20weather%20glimpse.png)
 
-> *(Add second screenshot below once available)*
 
-![Second Screenshot Placeholder]([https://github.com/rasmaus/weather_dashboard-/blob/main/YOUR-SECOND-FILE-NAME.png](https://github.com/rasmaus/weather_dashboard-/blob/main/selected%20day%20weather%20glimpse.png))
-
----
+**![Weather Dashboard Preview - ](https://github.com/rasmaus/weather_dashboard-/blob/main/selected%20day%20weather%20glimpse.png)
+**---
 
